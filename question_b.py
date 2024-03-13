@@ -24,7 +24,3 @@ def extract_syntax_relations(sentence):
             prev_word, prev_tag = tagged_words[i-1]
             with open("answer_b.txt", "a", encoding="utf-8") as f:
                 f.write(f"{prev_word} ({prev_tag}) -> {word} ({tag})\n")
-
-# Thử nghiệm với một câu đơn giản
-sentence = "Con mèo đang ngủ trong nhà."
-extract_syntax_relations(sentence)
