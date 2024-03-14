@@ -13,7 +13,7 @@ A: Học kì 1 và 2 năm học thứ 2 có 6 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 1 ?.
 A: Cả 2 học kỳ năm học thứ 1 có 9 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 2 ?.
-A: Cả 2 học kỳ năm học thứ 2 có 6 môn học được dạy
+A: Cả 2 học kỳ năm học thứ 2 có 0 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 1 và thứ 2 ?.
 A: Học kì 1 năm học thứ 1 và thứ 2 có 7 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 1 và thứ 2 ?.

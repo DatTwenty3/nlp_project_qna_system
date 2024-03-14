@@ -3,6 +3,10 @@ import csv
 
 file_path = ("data/data.csv")
 no_subject = 0
+term_11 = 0
+term_12 = 1
+term_21 = 2
+term_22 = 3
 def check_phrase(sentence, phrase):
     pattern = rf"\b{phrase}\b"
     if re.search(pattern, sentence):
@@ -54,7 +58,7 @@ def check_answer(question):
                         reader = csv.DictReader(csvfile, delimiter=';')
                         for row in reader:
                             term = row['term']
-                            if int(term[0]) == 1 and int(term[2]) == 1:
+                            if int(term[term_11]) == 1 and int(term[term_21]) == 1:
                                 number_of_subject = number_of_subject + 1
                     with open("answer_f.txt", "a", encoding="utf-8") as f:
                         f.write("A: Học kì 1 năm học thứ 1 và thứ 2 có " + str(number_of_subject) + " môn học được dạy\n")
@@ -63,7 +67,7 @@ def check_answer(question):
                     reader = csv.DictReader(csvfile, delimiter=';')
                     for row in reader:
                         term = row['term']
-                        if int(term[0]) == 1:
+                        if int(term[term_11]) == 1:
                             number_of_subject = number_of_subject + 1
                 with open("answer_f.txt", "a", encoding="utf-8") as f:
                     f.write("A: Học kì 1 năm học thứ 1 có " + str(number_of_subject) + " môn học được dạy\n")
@@ -74,7 +78,7 @@ def check_answer(question):
                     reader = csv.DictReader(csvfile, delimiter=';')
                     for row in reader:
                         term = row['term']
-                        if int(term[2]) == 1:
+                        if int(term[term_21]) == 1:
                             number_of_subject = number_of_subject + 1
                 with open("answer_f.txt", "a", encoding="utf-8") as f:
                     f.write("A: Học kì 1 năm học thứ 2 có " + str(number_of_subject) + " môn học được dạy\n")
@@ -89,7 +93,7 @@ def check_answer(question):
                         reader = csv.DictReader(csvfile, delimiter=';')
                         for row in reader:
                             term = row['term']
-                            if int(term[1]) == 2 and int(term[3]) == 2:
+                            if int(term[term_12]) == 2 and int(term[term_22]) == 2:
                                 number_of_subject = number_of_subject + 1
                     with open("answer_f.txt", "a", encoding="utf-8") as f:
                         f.write("A: Học kì 1 năm học thứ 1 và thứ 2 có " + str(number_of_subject) + " môn học được dạy\n")
@@ -98,7 +102,7 @@ def check_answer(question):
                     reader = csv.DictReader(csvfile, delimiter=';')
                     for row in reader:
                         term = row['term']
-                        if int(term[1]) == 2:
+                        if int(term[term_12]) == 2:
                             number_of_subject = number_of_subject + 1
                 with open("answer_f.txt", "a", encoding="utf-8") as f:
                     f.write("A: Học kì 2 năm học thứ 1 có " + str(number_of_subject) + " môn học được dạy\n")
@@ -109,7 +113,7 @@ def check_answer(question):
                     reader = csv.DictReader(csvfile, delimiter=';')
                     for row in reader:
                         term = row['term']
-                        if int(term[3]) == 2:
+                        if int(term[term_22]) == 2:
                             number_of_subject = number_of_subject + 1
                 with open("answer_f.txt", "a", encoding="utf-8") as f:
                     f.write("A: Học kì 1 năm học thứ 2 có " + str(number_of_subject) + " môn học được dạy\n")
@@ -135,7 +139,7 @@ def check_answer(question):
                     reader = csv.DictReader(csvfile, delimiter=';')
                     for row in reader:
                         term = row['term']
-                        if int(term[0]) == 1 and int(term[1]) == 2:
+                        if int(term[term_11]) == 1 and int(term[term_12]) == 2:
                             number_of_subject = number_of_subject + 1
                 with open("answer_f.txt", "a", encoding="utf-8") as f:
                     f.write("A: Cả 2 học kỳ năm học thứ 1 có " + str(number_of_subject) + " môn học được dạy\n")
@@ -146,7 +150,7 @@ def check_answer(question):
                     reader = csv.DictReader(csvfile, delimiter=';')
                     for row in reader:
                         term = row['term']
-                        if int(term[2]) == 1 and int(term[3]) == 2:
+                        if int(term[term_22]) == 1 and int(term[term_22]) == 2:
                             number_of_subject = number_of_subject + 1
                 with open("answer_f.txt", "a", encoding="utf-8") as f:
                     f.write("A: Cả 2 học kỳ năm học thứ 2 có " + str(number_of_subject) + " môn học được dạy\n")
