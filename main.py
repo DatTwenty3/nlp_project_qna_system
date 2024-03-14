@@ -29,5 +29,6 @@ try:
             qb.extract_syntax_relations(query_content)
             print("Đã ghi kết quả câu", question, "vào file answer_b.txt")
             qf.check_answer(query_content)
+            print("Đã ghi kết quả câu", question, "vào file answer_f.txt")
 except FileNotFoundError:
     print(f"Không tìm thấy file '{file_path}'")
