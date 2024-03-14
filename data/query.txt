@@ -1,26 +1,19 @@
 1) Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 1 ?.
-* Có bao nhiêu môn học được dạy trong năm học thứ 1, học kỳ 2 ?.
-* Có bao nhiêu môn học ở trong năm học thứ 1 vào học kỳ 2?
-* Có bao nhiêu môn học ở học kỳ 2 năm học thứ 1 vậy?
 2) Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 1 ?.
 3) Có bao nhiêu môn học được dạy trong học kỳ 1 và 2, năm học thứ 1 ?.
-* Mấy môn được dạy ở kỳ 1 và 2 năm nhất?
-* Kỳ 1 và 2 năm nhất có nhiêu môn?
 4) Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 2 ?.
 5) Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 2 ?.
 6) Có bao nhiêu môn học được dạy trong học kỳ 1 và 2, năm học thứ 2 ?.
-* Có mấy môn trong học kỳ 1 và 2 của năm 2?
 7) Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 1 ?.
 8) Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 2 ?.
 9) Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 1 và thứ 2 ?.
-* Có nhiêu môn trong học kỳ 1 năm nhất và năm 2?
 10) Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 1 và thứ 2 ?.
 11) Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 1 và thứ 2 ?.
 12) Cho biết tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 1 ?.
 13) Cho biết tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 2 ?.
 14) Cho biết tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 1 và thứ 2 ?.
 15) Cho biết tên môn học có mã số: 055131 ?.
-16) Cho biết mã số môn học “Quản lý dữ liệu doanh nghiệp” ?.
+16) Cho biết mã số môn học "Quản lý dữ liệu doanh nghiệp" ?.
 17) Cho biết môn học có mã số 055253, được dạy vào học kỳ nào, năm học nào ?.
 18) Môn học có mã số 055151 và môn học có mã số 055235 có được dạy cùng học kỳ trong cùng năm học ?.
 19) Môn học có mã số 055010 có được dạy cả hai học kỳ trong 1 năm học không ?.

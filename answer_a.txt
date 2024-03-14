@@ -10,41 +10,6 @@ Word: 1, Tag: M
 Word: năm_học, Tag: N
 Word: thứ, Tag: N
 Word: 1, Tag: M
-Câu được phân tích: * Có bao nhiêu môn học được dạy trong năm học thứ 1, học kỳ 2 ?.
-Word: Có, Tag: V
-Word: bao_nhiêu, Tag: P
-Word: môn_học, Tag: N
-Word: được, Tag: V
-Word: dạy, Tag: V
-Word: trong, Tag: E
-Word: năm_học, Tag: N
-Word: thứ, Tag: N
-Word: 1, Tag: M
-Word: học_kỳ, Tag: N
-Word: 2, Tag: M
-Câu được phân tích: * Có bao nhiêu môn học ở trong năm học thứ 1 vào học kỳ 2?
-Word: Có, Tag: V
-Word: bao_nhiêu, Tag: P
-Word: môn_học, Tag: N
-Word: ở, Tag: E
-Word: trong, Tag: E
-Word: năm_học, Tag: N
-Word: thứ, Tag: N
-Word: 1, Tag: M
-Word: vào, Tag: E
-Word: học_kỳ, Tag: N
-Word: 2, Tag: M
-Câu được phân tích: * Có bao nhiêu môn học ở học kỳ 2 năm học thứ 1 vậy?
-Word: Có, Tag: V
-Word: bao_nhiêu, Tag: P
-Word: môn_học, Tag: N
-Word: ở, Tag: E
-Word: học_kỳ, Tag: N
-Word: 2, Tag: M
-Word: năm_học, Tag: N
-Word: thứ, Tag: N
-Word: 1, Tag: M
-Word: vậy, Tag: N
 Câu được phân tích: Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 1 ?.
 Word: Có, Tag: V
 Word: bao_nhiêu, Tag: P
@@ -71,28 +36,6 @@ Word: 2, Tag: M
 Word: năm_học, Tag: N
 Word: thứ, Tag: N
 Word: 1, Tag: M
-Câu được phân tích: * Mấy môn được dạy ở kỳ 1 và 2 năm nhất?
-Word: Mấy, Tag: L
-Word: môn, Tag: N
-Word: được, Tag: V
-Word: dạy, Tag: V
-Word: ở, Tag: E
-Word: kỳ, Tag: N
-Word: 1, Tag: M
-Word: và, Tag: C
-Word: 2, Tag: M
-Word: năm, Tag: N
-Word: nhất, Tag: A
-Câu được phân tích: * Kỳ 1 và 2 năm nhất có nhiêu môn?
-Word: Kỳ, Tag: N
-Word: 1, Tag: M
-Word: và, Tag: C
-Word: 2, Tag: M
-Word: năm, Tag: N
-Word: nhất, Tag: A
-Word: có, Tag: V
-Word: nhiêu, Tag: N
-Word: môn, Tag: N
 Câu được phân tích: Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 2 ?.
 Word: Có, Tag: V
 Word: bao_nhiêu, Tag: P
@@ -130,18 +73,6 @@ Word: và, Tag: C
 Word: 2, Tag: M
 Word: năm_học, Tag: N
 Word: thứ, Tag: N
-Word: 2, Tag: M
-Câu được phân tích: * Có mấy môn trong học kỳ 1 và 2 của năm 2?
-Word: Có, Tag: V
-Word: mấy, Tag: L
-Word: môn, Tag: N
-Word: trong, Tag: E
-Word: học_kỳ, Tag: N
-Word: 1, Tag: M
-Word: và, Tag: C
-Word: 2, Tag: M
-Word: của, Tag: E
-Word: năm, Tag: N
 Word: 2, Tag: M
 Câu được phân tích: Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 1 ?.
 Word: Có, Tag: V
@@ -183,18 +114,6 @@ Word: thứ, Tag: N
 Word: 1, Tag: M
 Word: và, Tag: C
 Word: thứ, Tag: N
-Word: 2, Tag: M
-Câu được phân tích: * Có nhiêu môn trong học kỳ 1 năm nhất và năm 2?
-Word: Có, Tag: V
-Word: nhiêu, Tag: N
-Word: môn, Tag: N
-Word: trong, Tag: E
-Word: học_kỳ, Tag: N
-Word: 1, Tag: M
-Word: năm, Tag: N
-Word: nhất, Tag: A
-Word: và, Tag: C
-Word: năm, Tag: N
 Word: 2, Tag: M
 Câu được phân tích: Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 1 và thứ 2 ?.
 Word: Có, Tag: V
@@ -286,7 +205,7 @@ Word: môn_học, Tag: N
 Word: có, Tag: V
 Word: mã_số, Tag: N
 Word: 055131, Tag: M
-Câu được phân tích: Cho biết mã số môn học “Quản lý dữ liệu doanh nghiệp” ?.
+Câu được phân tích: Cho biết mã số môn học "Quản lý dữ liệu doanh nghiệp" ?.
 Word: Cho, Tag: V
 Word: biết, Tag: V
 Word: mã_số, Tag: N

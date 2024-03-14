@@ -1,18 +1,8 @@
 Q: Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 1 ?.
 A: Học kì 1 năm học thứ 1 có 14 môn học được dạy
-Q: * Có bao nhiêu môn học được dạy trong năm học thứ 1, học kỳ 2 ?.
-A: Học kì 2 năm học thứ 1 có 15 môn học được dạy
-Q: * Có bao nhiêu môn học ở trong năm học thứ 1 vào học kỳ 2?
-A: Học kì 2 năm học thứ 1 có 15 môn học được dạy
-Q: * Có bao nhiêu môn học ở học kỳ 2 năm học thứ 1 vậy?
-A: Học kì 2 năm học thứ 1 có 15 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 1 ?.
 A: Học kì 2 năm học thứ 1 có 15 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong học kỳ 1 và 2, năm học thứ 1 ?.
-A: Học kì 1 và 2 năm học thứ 1 có 9 môn học được dạy
-Q: * Mấy môn được dạy ở kỳ 1 và 2 năm nhất?
-A: Học kì 1 và 2 năm học thứ 1 có 9 môn học được dạy
-Q: * Kỳ 1 và 2 năm nhất có nhiêu môn?
 A: Học kì 1 và 2 năm học thứ 1 có 9 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 2 ?.
 A: Học kì 1 năm học thứ 2 có 13 môn học được dạy
@@ -20,32 +10,48 @@ Q: Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ
 A: Học kì 1 năm học thứ 2 có 12 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong học kỳ 1 và 2, năm học thứ 2 ?.
 A: Học kì 1 và 2 năm học thứ 2 có 6 môn học được dạy
-Q: * Có mấy môn trong học kỳ 1 và 2 của năm 2?
-A: Học kì 1 và 2 năm học thứ 2 có 6 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 1 ?.
 A: Cả 2 học kỳ năm học thứ 1 có 9 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 2 ?.
 A: Cả 2 học kỳ năm học thứ 2 có 0 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 1 và thứ 2 ?.
 A: Học kì 1 năm học thứ 1 và thứ 2 có 7 môn học được dạy
-Q: * Có nhiêu môn trong học kỳ 1 năm nhất và năm 2?
-A: Học kì 1 năm học thứ 1 và thứ 2 có 7 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 1 và thứ 2 ?.
 A: Học kì 1 năm học thứ 1 và thứ 2 có 7 môn học được dạy
 Q: Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 1 và thứ 2 ?.
 A: Cả 2 học kỳ năm học thứ 1 và thứ 2 có 3 môn học được dạy
 Q: Cho biết tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 1 ?.
-NO ANSWER - SKIP!
+A: Tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 1:
+55166|An ninh mạng
+55263|Cơ sở toán học cho máy tính
+55241|Học máy và ứng dụng
+55255|Học sâu và ứng dụng trong thị giác
+55022|Kho dữ liệu và hệ hỗ trợ ra quyết định
+55146|Phân tích chương trình
+55234|Quản lý dữ liệu doanh nghiệp
+55143|Xử lý ngôn ngữ tự nhiên
+55102|Quản lý hệ thống thông tin
 Q: Cho biết tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 2 ?.
-NO ANSWER - SKIP!
+A: Tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 2:
+55153|Dữ liệu lớn
+55263|Cơ sở toán học cho máy tính
+55241|Học máy và ứng dụng
+55221|Mật mã học ứng dụng
+55146|Phân tích chương trình
+55010|Quản trị hệ thống thông tin kinh doanh
 Q: Cho biết tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 1 và thứ 2 ?.
-NO ANSWER - SKIP!
+A: Tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 1 và năm học thứ 2:
+55263|Cơ sở toán học cho máy tính
+55241|Học máy và ứng dụng
+55146|Phân tích chương trình
 Q: Cho biết tên môn học có mã số: 055131 ?.
-NO ANSWER - SKIP!
-Q: Cho biết mã số môn học “Quản lý dữ liệu doanh nghiệp” ?.
-NO ANSWER - SKIP!
+Khai phá dữ liệu
+Q: Cho biết mã số môn học "Quản lý dữ liệu doanh nghiệp" ?.
+Môn học có mã số là:55234
 Q: Cho biết môn học có mã số 055253, được dạy vào học kỳ nào, năm học nào ?.
-NO ANSWER - SKIP!
+A: Mon học được diẽn ra trong học kỳ:
+Học kỳ 1 năm 1
+Học kỳ 2 năm 2
 Q: Môn học có mã số 055151 và môn học có mã số 055235 có được dạy cùng học kỳ trong cùng năm học ?.
 NO ANSWER - SKIP!
 Q: Môn học có mã số 055010 có được dạy cả hai học kỳ trong 1 năm học không ?.
