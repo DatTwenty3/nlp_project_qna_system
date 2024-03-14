@@ -1,0 +1,42 @@
+Q: Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 1 ?.
+A: Học kì 1 năm học thứ 1 có 14 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 1 ?.
+A: Học kì 2 năm học thứ 1 có 15 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong học kỳ 1 và 2, năm học thứ 1 ?.
+A: Học kì 1 và 2 năm học thứ 1 có 9 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 2 ?.
+A: Học kì 1 năm học thứ 2 có 13 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 2 ?.
+A: Học kì 1 năm học thứ 2 có 12 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong học kỳ 1 và 2, năm học thứ 2 ?.
+A: Học kì 1 và 2 năm học thứ 2 có 6 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 1 ?.
+A: Cả 2 học kỳ năm học thứ 1 có 9 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 2 ?.
+A: Cả 2 học kỳ năm học thứ 2 có 6 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong học kỳ 1, năm học thứ 1 và thứ 2 ?.
+A: Học kì 1 năm học thứ 1 và thứ 2 có 7 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong học kỳ 2, năm học thứ 1 và thứ 2 ?.
+A: Học kì 1 năm học thứ 1 và thứ 2 có 7 môn học được dạy
+Q: Có bao nhiêu môn học được dạy trong cả 2 học kỳ năm học thứ 1 và thứ 2 ?.
+A: Cả 2 học kỳ năm học thứ 1 và thứ 2 có 3 môn học được dạy
+Q: Cho biết tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 1 ?.
+NO ANSWER - SKIP!
+Q: Cho biết tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 2 ?.
+NO ANSWER - SKIP!
+Q: Cho biết tên môn học và mã môn học được dạy cả hai học kỳ năm học thứ 1 và thứ 2 ?.
+NO ANSWER - SKIP!
+Q: Cho biết tên môn học có mã số: 055131 ?.
+NO ANSWER - SKIP!
+Q: Cho biết mã số môn học “Quản lý dữ liệu doanh nghiệp” ?.
+NO ANSWER - SKIP!
+Q: Cho biết môn học có mã số 055253, được dạy vào học kỳ nào, năm học nào ?.
+NO ANSWER - SKIP!
+Q: Môn học có mã số 055151 và môn học có mã số 055235 có được dạy cùng học kỳ trong cùng năm học ?.
+NO ANSWER - SKIP!
+Q: Môn học có mã số 055010 có được dạy cả hai học kỳ trong 1 năm học không ?.
+NO ANSWER - SKIP!
+Q: Môn học nào chỉ dạy trong 1 năm học, cho biết tên, mã số môn học và học kỳ trong năm học ?.
+NO ANSWER - SKIP!
+Q: Có môn học nào không được dạy trong 1 năm học, cho biết tên, mã số môn học và năm học ?.
+NO ANSWER - SKIP!

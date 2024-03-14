@@ -1,5 +1,6 @@
 import question_a as qa
 import question_b as qb
+import question_f as qf
 import re
 
 # Đường dẫn tới file "query.txt"
@@ -15,9 +16,10 @@ try:
     with open(file_path, "r", encoding="utf-8") as file:
         queries = file.readlines()
         question = 0
-        #Xoá trắng file answer_a.txt
+        #Xoá trắng file answer_*.txt
         clear_file("answer_a.txt")
         clear_file("answer_b.txt")
+        clear_file("answer_f.txt")
         # In ra màn hình từng câu trong file
         for query in queries:
             question = question + 1
@@ -26,5 +28,6 @@ try:
             print("Đã ghi kết quả câu", question, "vào file answer_a.txt")
             qb.extract_syntax_relations(query_content)
             print("Đã ghi kết quả câu", question, "vào file answer_b.txt")
+            qf.check_answer(query_content)
 except FileNotFoundError:
     print(f"Không tìm thấy file '{file_path}'")

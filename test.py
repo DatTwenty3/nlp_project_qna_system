@@ -1,14 +1,22 @@
 import spacy
 
 # Khởi tạo mô hình spaCy cho tiếng Việt
-nlp = spacy.load("vi")
+nlp = spacy.load("en_core_web_sm")
 
-# Tạo câu
-cau = "Con mèo đang ngủ trên ghế sofa."
+# Nhập câu tiếng Việt
+cau = "Con mèo đen đang ngủ trên chiếc ghế sofa."
 
-# Phân tích câu
+# Phân tích cú pháp câu
 doc = nlp(cau)
 
-# Lấy các quan hệ ngữ pháp
+# Duyệt qua các token trong câu
 for token in doc:
-    print(token.text, token.dep_, token.head.text)
+    # In ra thông tin token
+    print(f"Token: {token.text}")
+    print(f"Từ loại: {token.pos_}")
+    print(f"Quan hệ cú pháp: {token.dep_}")
+    print(f"Chủ ngữ: {token.head.text}")
+    print()
+
+# In ra cây phân tích cú pháp
+print(doc.sents[0].subtree)
